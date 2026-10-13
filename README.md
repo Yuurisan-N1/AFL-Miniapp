@@ -24,20 +24,20 @@
 
 ## Table of Contents
 
-[Requirements](#requirements)
-[Installation](#installation)
-[Configuration](#configuration)
-[Running the Bot](#running-the-bot)
-[Features](#features)
-[File Structure](#file-structure)
-[Disclaimer](#disclaimer)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Running the Bot](#running-the-bot)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Disclaimer](#disclaimer)
 
 ---
 
 ## Requirements
 
-Elixir `1.14+` with Erlang/OTP `25+`
-Git
+- Elixir `1.14+` with Erlang/OTP `25+`
+- Git
 
 ---
 
